@@ -53,3 +53,7 @@ Further reading:
 ## License
 
 The license of a project speaks to how the project can be used. This is important for those who work in open source. They want to know they are contributing to a project that can be freely distributed. In most cases, having an MIT license would suffice. However, if this is not the case then make sure you spend the time finding a license that works for your use case.
+
+Further reading:
+
+- [OSS Licenses](https://opensource.org/licenses)
